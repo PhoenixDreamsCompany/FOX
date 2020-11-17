@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox
+http://srregio.net/Sr_Regio151120/mc.php?c=57&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Action
+http://srregio.net/Sr_Regio151120/mc.php?c=58&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Cinema
+http://srregio.net/Sr_Regio151120/mc.php?c=60&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Cinema Subtitulado
+http://srregio.net/Sr_Regio151120/mc.php?c=61&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Classics
+http://srregio.net/Sr_Regio151120/mc.php?c=62&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Comedy
+http://srregio.net/Sr_Regio151120/mc.php?c=63&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Family
+http://srregio.net/Sr_Regio151120/mc.php?c=64&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Life
+http://srregio.net/Sr_Regio151120/mc.php?c=65&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Movies
+http://srregio.net/Sr_Regio151120/mc.php?c=67&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox News
+http://srregio.net/Sr_Regio151120/mc.php?c=68&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Series
+http://srregio.net/Sr_Regio151120/mc.php?c=69&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Series Subtitulado
+http://srregio.net/Sr_Regio151120/mc.php?c=70&f.m3u8
