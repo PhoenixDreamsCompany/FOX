@@ -1,22 +1,19 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="/logos/foxlatino.png",FOX
-https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/fox-action_thumb_ywlczopo.png" group-title="TV PREMIUM 2",FOX Action
-https://blackghost.live/play/tlvall-202.php?c=1496&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxlatino.png",FOX LATINO
+https://blackghost.live/play/wistream-205.php?cat=latinos&ch=fox&k=black--ghost&f=.m2u8
 #EXTINF:-1 tvg-logo="/logos/foxaction.png",FOX PREMIUM ACTION
-https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxaction&f=.m3u8
+https://blackghost.live/play/wistream-205.php?cat=latinos&ch=foxaction&k=black--ghost&f=.m2u8
 #EXTINF:-1 tvg-logo="/logos/foxseries.png",FOX PREMIUM SERIES
-https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxseries&f=.m3u8
+https://blackghost.live/play/wistream-205.php?cat=latinos&ch=foxseries&k=black--ghost&f=.m2u8
 #EXTINF:-1 tvg-logo="/logos/foxfamily.png",FOX PREMIUM FAMILY
-https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxfamily&f=.m3u8
+https://blackghost.live/play/wistream-205.php?cat=latinos&ch=foxfamily&k=black--ghost&f=.m2u8
 #EXTINF:-1 tvg-logo="/logos/foxcinema.png",FOX PREMIUM CINEMA
-https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxcinema&f=.m3u8
+https://blackghost.live/play/wistream-205.php?cat=latinos&ch=foxcinema&k=black--ghost&f=.m2u8
 #EXTINF:-1 tvg-logo="/logos/foxcomedy.png",FOX PREMIUM COMEDY
-https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxcomedy&f=.m3u8
+https://blackghost.live/play/wistream-205.php?cat=latinos&ch=foxcomedy&k=black--ghost&f=.m2u8
 #EXTINF:-1 tvg-logo="/logos/foxclassics.png",FOX PREMIUM CLASICS
-https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxclassics&f=.m3u8
+https://blackghost.live/play/wistream-205.php?cat=latinos&ch=foxclassics&k=black--ghost&f=.m2u8
 #EXTINF:-1 tvg-logo="/logos/foxmovies.png",FOX PREMIUM MOVIES
-https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxmovies&f=.m3u8
+https://blackghost.live/play/wistream-205.php?cat=latinos&ch=foxmovies&k=black--ghost&f=.m2u8
 #EXTINF:-1 tvg-logo="/logos/foxlifelatino.png",FOX LIFE LATINO
-https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxlife&f=.m3u8
+https://blackghost.live/play/wistream-205.php?cat=latinos&ch=foxlife&k=black--ghost&f=.m2u8
